@@ -67,7 +67,7 @@
     DISPLAY 'Start the machine'
 
 -----------------------------------
-1. Periksa Kuku
+4. Periksa Kuku
 -----------------------------------
     ## Algoritma ##
 
